@@ -13,25 +13,22 @@ export default function Home() {
     const [backgroundColor, setBackgroundColor] = useState('#f0f8ff');
 
     useEffect(() => {
-        let intervalId: number;
-        let timerCompleted = false; 
+        let intervalId: number; 
         if (isRunning && timer > 0) {
             intervalId = setInterval(() => {
                 setTimer((prev) => prev - 1);
             }, 1000);
         } else if (timer === 0) {
-            timerCompleted = true;
             setIsRunning(false);
             setShowMessage(true);
             changeBackgroundColor();
         }
-        if(timerCompleted){
-            setCompletionCount(prev => prev + 1);
-        }
 
         return () => {
             if (intervalId) {
+                setCompletionCount(prev => prev + 1);
                 clearInterval(intervalId);
+                
             }
         };
     }, [isRunning, timer]);
