@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "heading": "Photosynthesis",
+      "summary": "The process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.",
+      "page_ref": 45
+    },
+    {
+      "id": 2,
+      "heading": "Newton's Laws of Motion",
+      "summary": "Three physical laws that together form the foundation for classical mechanics, explaining the relationship between a body and the forces acting on it.",
+      "page_ref": 78
+    },
+    {
+      "id": 3,
+      "heading": "The Structure of DNA",
+      "summary": "DNA is composed of two strands forming a double helix, containing sequences of nucleotides that encode genetic information.",
+      "page_ref": 112
+    },
+    {
+      "id": 4,
+      "heading": "The Civil Rights Movement",
+      "summary": "A struggle for social justice that took place mainly during the 1950s and 60s to end racial discrimination in the United States.",
+      "page_ref": 203
+    },
+    {
+      "id": 5,
+      "heading": "The Theory of Relativity",
+      "summary": "Einstein's theory that revolutionized the understanding of space, time, and gravity, introducing concepts of time dilation and the curvature of space.",
+      "page_ref": 155
+    },
+    {
+      "id": 6,
+      "heading": "Economic Supply and Demand",
+      "summary": "The relationship between the quantity of a commodity that producers are willing to sell and the quantity that consumers are willing to buy.",
+      "page_ref": 92
+    },
+    {
+      "id": 7,
+      "heading": "The Water Cycle",
+      "summary": "The continuous process by which water evaporates, condenses, and precipitates back to the Earth, playing a crucial role in weather patterns.",
+      "page_ref": 67
+    },
+    {
+      "id": 8,
+      "heading": "World War II Causes",
+      "summary": "Multiple factors including unresolved issues from WWI, the rise of totalitarian regimes, and expansionist policies led to the outbreak of WWII.",
+      "page_ref": 310
+    },
+    {
+      "id": 9,
+      "heading": "Photosynthetic Phases",
+      "summary": "Photosynthesis consists of two main phases: the light-dependent reactions and the Calvin cycle, where light energy is converted into chemical energy.",
+      "page_ref": 47
+    },
+    {
+      "id": 10,
+      "heading": "Cell Division",
+      "summary": "The process by which a parent cell divides into two or more daughter cells, including mitosis (for growth) and meiosis (for reproduction).",
+      "page_ref": 85
+    }
+  ]
+}
